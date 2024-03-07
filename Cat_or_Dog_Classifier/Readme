@@ -1,1 +1,1 @@
-A classifier that can tell distinguish between cats and dogs. It has been trained on the cat_and_dog training set of FreeCodeCamp.com. I created the model, but the loading and checking of the accuracy was already provided.
+A classifier that can tell distinguish between cats and dogs using a CNN via TensorFlow. It has been trained on the cat_and_dog training set of FreeCodeCamp.com. I created the model, but the loading and checking of the accuracy was already provided.
