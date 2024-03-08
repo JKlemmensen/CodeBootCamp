@@ -1,0 +1,1 @@
+Creating a book recommendation engine from a dataset containing 1.1 million book reviews. The program takes a given book and finds other books that have been rated similarly by the same users.
