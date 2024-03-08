@@ -1,0 +1,1 @@
+Creating a program to predict the healthcare costs of a person given age, bmi, gender, and region. I used TensorFlow without any activation functions, hereby creating a linear model.
