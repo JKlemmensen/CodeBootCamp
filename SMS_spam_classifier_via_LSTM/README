@@ -1,0 +1,1 @@
+I created a SMS text classifier using the data from www.dt.fee.unicamp.br/~tiago/smsspamcollection/. It takes as input any text and predicts if the text is a spam message or not. This was done using an LSTM (long-short term memory) build into TensorFlow. The model had a test accuracy of 98.5%. 
